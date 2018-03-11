@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import twitter from './twitter.svg';
+import TweetsContainer from './components/TweetsContainer'
 import './App.css';
 
 class App extends Component {
@@ -7,12 +8,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <img src={twitter} className="App-logo" alt="logo" />
+          <h1 className="App-title">Tweets Board</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <br />
+        <TweetsContainer />
       </div>
     );
   }
