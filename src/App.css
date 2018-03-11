@@ -25,3 +25,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.spinner{
+    position: fixed;
+    width: 200px;
+    top: 55%;
+    left: 45%;
+    margin: auto;
+}

@@ -12,7 +12,7 @@ class App extends Component {
           <h1 className="App-title">Tweets Search Board</h1>
         </header>
         <br />
-        <TweetsContainer />
+        <TweetsContainer perPage={10} />
       </div>
     );
   }
