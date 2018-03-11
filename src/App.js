@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={twitter} className="App-logo" alt="logo" />
-          <h1 className="App-title">Tweets Board</h1>
+          <h1 className="App-title">Tweets Search Board</h1>
         </header>
         <br />
         <TweetsContainer />
