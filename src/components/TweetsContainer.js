@@ -21,7 +21,7 @@ class TweetsContainer extends Component {
   handleQuery = (e) => {
     if(e.key === 'Enter'){
         this.setState({isLoading: true, tweets: []})
-        axios.get(' http://cors.io/?u=https://twitter-search-server.herokuapp.com/application?q=' + this.state.query,function(data){})
+        axios.get('https://twitter-search-server.herokuapp.com/application?q=' + this.state.query)
         .then(response => {
           this.setState({tweets: response.data, isLoading: false})
         })

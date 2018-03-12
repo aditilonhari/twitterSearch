@@ -7,12 +7,12 @@ Time spent: 40 hours spent in total
 ## Project Structure
 
 Deployed links
-Heroku for backend: 
-Github Pages for frontend: 
+* Heroku for backend: https://twitter-search-server.herokuapp.com/application?q=<querystring>
+* Github Pages for frontend: https://aditilonhari.github.io/twitterSearch/
 
 Links to code on Github
-Backend: https://github.com/aditilonhari/twitterSearch-api
-Frontend: https://github.com/aditilonhari/twitterSearch
+* Backend: https://github.com/aditilonhari/twitterSearch-api
+* Frontend: https://github.com/aditilonhari/twitterSearch
 
 ## User Stories
 
