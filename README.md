@@ -46,7 +46,7 @@ The following **to-do/in-progress** features to be implemented:
 
 ## Video WalkThrough
 
-<img src='https://github.com/aditilonhari/IdeaBoard/blob/master/FirstReactApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/aditilonhari/twitterSearch/blob/master/TwitterSearch_react_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
